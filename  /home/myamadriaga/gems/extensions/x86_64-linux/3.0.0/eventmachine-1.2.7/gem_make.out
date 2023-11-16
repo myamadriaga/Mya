@@ -1,0 +1,16 @@
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231114-22635-rj23he.rb extconf.rb
+creating Makefile
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20231114-22635-zeut5r

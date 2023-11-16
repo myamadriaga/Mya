@@ -1,0 +1,19 @@
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/ffi-1.16.3/ext/ffi_c
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231114-22635-gqyhou.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... no
+checking for whether -Wl,--exclude-libs,ALL is accepted as LDFLAGS... yes
+checking for rb_gc_mark_movable()... yes
+checking for whether -pthread is accepted as LDFLAGS... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/ffi-1.16.3/ext/ffi_c
+make DESTDIR\= clean
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/ffi-1.16.3/ext/ffi_c
+make DESTDIR\=
+/bin/sh: 1: Syntax error: "(" unexpected
+make: *** [libffi.mk:6: "/home/myamadriaga/vscode/Mya/] Error 2
+
+make failed, exit code 2

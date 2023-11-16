@@ -1,0 +1,16 @@
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/unf_ext-0.0.9/ext/unf_ext
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231114-22635-qjia6q.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/unf_ext-0.0.9/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/unf_ext-0.0.9/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/myamadriaga/vscode/Mya/ /home/myamadriaga/gems/gems/unf_ext-0.0.9/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20231114-22635-e171jd
