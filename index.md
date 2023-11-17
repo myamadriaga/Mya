@@ -2,11 +2,7 @@
 layout: default
 title: Mya's Home Page!!
 description: Mya's computer science home page..... haiiii :3
-{
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#CDE1A9"
-  }
-}
+
 
 ## Build you Home Page here 
 This is about your journey. Start now!!!
