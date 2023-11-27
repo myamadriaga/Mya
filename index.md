@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mya's Home Page!
-description: Mya's computer science home page.....
+description: Mya's About Me..
 
 
 
