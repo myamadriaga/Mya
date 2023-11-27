@@ -1,7 +1,13 @@
 ---
 layout: default
 title: Mya's Home Page!!
-description: Mya's computer science home page..... haiiii :3
+description: Mya's computer science home page.....
+
+
+
+
+
+
 
 
 ## Build you Home Page here 
