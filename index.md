@@ -2,7 +2,7 @@
 layout: default
 title: Mya's Home Page!
 description: about me page 
-{{cite.}}
+
 ---
 ## Build you Home Page here 
 This is about your journey. Start now!!!
