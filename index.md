@@ -2,6 +2,7 @@
 layout: default
 title: Mya's Home Page!
 description: about me page 
+{{cite.https://vscode.dev/github/myamadriaga/Mya/blob/main/images/Get%20To%20Know%20Me%20Poster%20-%20Madriaga%2C%20Mya.png}}
 
 ---
 ## Build you Home Page here 
